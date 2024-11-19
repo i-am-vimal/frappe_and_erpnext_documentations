@@ -4,9 +4,9 @@
 
 Welcome to the **Frappe and ERPNext Documentations** repository! This repo contains various documentations of features and code snippets that I found useful while working with Frappe and ERPNext.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/generalvimal/frappe_and_erpnext_documentations)
-![GitHub contributors](https://img.shields.io/github/contributors/generalvimal/frappe_and_erpnext_documentations)
-![GitHub stars](https://img.shields.io/github/stars/generalvimal/frappe_and_erpnext_documentations?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/i-am-vimal/frappe_and_erpnext_documentations)
+![GitHub contributors](https://img.shields.io/github/contributors/i-am-vimal/frappe_and_erpnext_documentations)
+![GitHub stars](https://img.shields.io/github/stars/i-am-vimal/frappe_and_erpnext_documentations?style=social)
 
 ## About the Repo
 
@@ -14,7 +14,7 @@ This repository is a collection of documents that provide insights into certain 
 
 ## 📄 Index
 
-- Index has now been moved to a seperate HTML page for ease of use: https://generalvimal.github.io/frappe_and_erpnext_documentations_index/
+- Index has now been moved to a seperate HTML page for ease of use: https://i-am-vimal.github.io/frappe_and_erpnext_documentations_index/
 
 ## How to Use
 
